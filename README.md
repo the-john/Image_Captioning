@@ -11,5 +11,8 @@ The project is structured in a seris of Jupyter Notebooks that are designed to b
 
 It took about eight hours to train the network.  I used the [Microsoft COCO].(https://github.com/the-john/Image_Captioning/blob/master/Microsoft_COCO_Common_Objects_in_Context_1405_0312.pdf) data set.
 
-I tried to emulate, as much as possible, these two white papers:
-- 
+I tried to emulate my model, both the encoder and decoder, from these two white papers;
+- [Show and Tell: A Neural Image Caption Generator].()
+- [Show and Tell: Lessons Learned from the 2015 MSCOCO Image Captioning Challenge].()
+
+
